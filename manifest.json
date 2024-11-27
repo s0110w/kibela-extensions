@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
-  "name": "Open Extension API reference",
+  "name": "Tool kits for kibela",
   "version": "1.0.0",
   "icons": {
-    "16": "images/icon-16.png",
-    "128": "images/icon-128.png"
+    "16": "images/icon-16.svg",
+    "128": "images/icon-128.svg"
   },
   "background": {
     "service_worker": "service-worker.js",
